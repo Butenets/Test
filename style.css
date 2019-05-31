@@ -1,0 +1,51 @@
+#header{
+    background-color: grey;
+}
+#logo{
+    opacity: 0.4;
+    border-radius: 50%;
+    cursor: pointer;
+}
+form.delete{
+    height: 10px;
+    width: 60px;
+    float: right;
+}
+.update{
+float: left;
+
+}
+.blockzap{
+    border: 1px solid black;
+    height: 200px;
+    cursor: pointer;
+}
+.head{
+    height: 108px;
+}
+.tovar{
+    height: 20px;
+}
+.shortop{
+    height: 43px;
+    border-top: 1px solid slateblue;
+}
+#addimage{
+    height: 100px;
+    margin-top: 50px;
+}
+.tools{
+    height: 10px;
+}
+.img_fon{
+    height: 400px;
+    background-color: #66afe9;
+}
+.tovar_name{
+    font-size: 25px;
+    border-bottom: 1px solid #2b669a;
+}
+.long_text{
+    min-height: 200px;
+    max-height: 400px;
+}
